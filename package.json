@@ -1,7 +1,7 @@
 {
   "name": "@noambz/telegram-utils",
-  "version": "1.1.0",
-  "description": "Shared Telegram Bot API utilities for sendMessage, polling, HTML escaping, and webhook verification",
+  "version": "1.2.0",
+  "description": "Shared Telegram Bot API utilities: bot scaffold, polling, routing, calendar, table formatter, pino adapter",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
